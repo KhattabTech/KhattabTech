@@ -8,10 +8,10 @@
 - 🎉 A fun fact about me: I love playing video games in my free time!
 
 ## GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Khattab&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Khattab&show_icons=true&theme=radical)
 
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khattab&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khattab&layout=compact&theme=radical)
 
 ## Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://facebook.com/yourprofile)
