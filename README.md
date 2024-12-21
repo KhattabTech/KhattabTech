@@ -8,20 +8,20 @@
 
 - 🌱 I’m currently learning **Full-Stack**
 
-- 👨‍💻 All of my projects are available at [fasasfas](fasasfas)
+- 👨‍💻 All of my projects are available at [profile](profile)
 
 - 💬 Ask me about **Front-End**
 
 - 📫 How to reach me **mo7amed.s4mir@gmail.com**
 
-- 📄 Know about my experiences [fasdfasf](fasdfasf)
+- 📄 Know about my experiences [CV](cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed samir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed samir" height="30" width="40" /></a>
 <a href="https://fb.com/mohamed samir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed samir" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed samir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed samir" height="30" width="40" /></a>
-<a href="https://www.behance.net/gfdgsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gfdgsd" height="30" width="40" /></a>
+<a href="https://www.behance.net/gfdgsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="www.behance.net" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
