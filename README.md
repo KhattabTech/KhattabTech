@@ -8,13 +8,9 @@
 
 - 🌱 I’m currently learning **Full-Stack**
 
-- 👨‍💻 All of my projects are available at [profile](profile)
-
 - 💬 Ask me about **Front-End**
 
 - 📫 How to reach me **mo7amed.s4mir@gmail.com**
-
-- 📄 Know about my experiences [CV](cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
